@@ -1,1 +1,1 @@
-this is my jump game
+this is my cool game
